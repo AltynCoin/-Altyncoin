@@ -1,4 +1,4 @@
-# -Altyncoin
+# -код AltynCoin
 /**
 
 (developer:Jan_db e-mail:ergeshov.j@icloud.com)
